@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on web development.
 - 🐚 I’m interested in machine learning in general, focusing on computer vision lately.
 - 📫 Reach me here: guanjordan722@gmail.com
-- ✨ Fun fact: I sing a cappella with some lovely people. Find us [here](https://www.instagram.com/acaresonance/).
+- ✨ Fun fact: I sing a cappella with some lovely people. Find us [here](https://linktr.ee/acares).
 
 
 
