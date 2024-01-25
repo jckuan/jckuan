@@ -1,6 +1,6 @@
 ### 👋 Hi there. I'm Jordan.
 
-- 🌱 I’m currently working on data analytics.
+- 🌱 I’m currently learning about audio signal processing.
 - 📫 Reach me here: guanjordan722@gmail.com
 
 
