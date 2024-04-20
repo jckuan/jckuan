@@ -1,6 +1,6 @@
 ### 👋 Hi there. I'm Jordan.
 
-- 🌱 I’m currently learning about audio signal processing.
+- 🌱 I’m currently learning about various topics on Music Information Retrieval.
 - 📫 Reach me here: guanjordan722@gmail.com
 
 
