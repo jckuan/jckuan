@@ -1,6 +1,6 @@
-### 👋 Hi there. I'm Jordan.
+### 👋 Hi there.
 
-- 🌱 I’m currently learning about various topics on Music Information Retrieval.
+- 🌱 I’m currently learning about Music Recommendation Systems.
 - 📫 Reach me here: guanjordan722@gmail.com
 
 
