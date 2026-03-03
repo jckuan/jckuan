@@ -1,6 +1,6 @@
 ### 👋 Hi there.
 
-- 🌱 I’m currently learning about Music Recommendation Systems.
+- 🌱 I’m currently exploring the potentials of agentic software development.
 - 📫 Reach me here: guanjordan722@gmail.com
 
 
